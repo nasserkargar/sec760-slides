@@ -1,0 +1,7 @@
+pdf:
+day1: https://drive.google.com/file/d/1CQ8Tv87_5SaKhRn4Y6DCryg3Lgv1FojX/view?usp=sharing
+day2: https://drive.google.com/file/d/1fb4_qy0tlOmy99WRAoP4xcOCovpMbIVO/view?usp=sharing
+day3: https://drive.google.com/file/d/17QCOqFJV6G--Et97uaUQUu8x3juQ4XG3/view?usp=sharing
+day4: https://drive.google.com/file/d/1YL_peN7ypwBVBVC5kXPnA_7Y4HSj9d0S/view?usp=sharing
+day5: https://drive.google.com/file/d/1ieNaYTW4KN3MBmegYCvfQKOvzD1LZDtZ/view?usp=sharing
+
